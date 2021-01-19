@@ -2,7 +2,7 @@
     <string name="app_name">Subscribes</string>
 
     <!-- SubscriberFragment -->
-    <string name="subscriber_name_hint">Subscriber\'s name</string>
+    <string name="subscriber_name_hint">Subscriber name</string>
     <string name="subscriber_email_hint">E-mail</string>
     <string name="subscriber_button">Add</string>
     <string name="subscriber_title">Title</string>
